@@ -191,22 +191,6 @@ Run production server
 
 ------------------------------------------------------------------------
 
-## Deployment
-
-The API can be deployed easily on:
-
--   Render
--   Railway
--   AWS EC2
--   DigitalOcean
-
-Example live endpoints:
-
-    https://your-api-url/api/schools/addSchool
-    https://your-api-url/api/schools/listSchools
-
-------------------------------------------------------------------------
-
 ## Future Improvements
 
 -   Swagger API documentation
